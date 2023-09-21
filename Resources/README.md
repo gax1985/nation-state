@@ -1,0 +1,1 @@
+This section is for the Iranian regime's methods for providing resources and funds for its cybercrime activities
