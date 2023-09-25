@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threat-Actors/README.md",
+                "file": "History/Pre-Islamic Revolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threat-Actors/README.md",
+                "file": "History/Pre-Islamic Revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threat-Actors/README.md",
+                "file": "History/Pre-Islamic Revolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threat-Actors/README.md"
+                "file": "History/Pre-Islamic Revolution.md"
               }
             }
           }
@@ -161,15 +161,23 @@
   },
   "active": "6ca92ad7b930e728",
   "lastOpenFiles": [
+    "History/Current Motivations.md",
+    "History/Pre-Islamic Revolution.md",
     "README.md",
+    "Personal Folders/Mohammad",
+    "Personal Folders/James",
+    "Personal Folders/Paula",
+    "Personal Folders/Eliza",
+    "Personal Folders/Justina",
+    "Personal Folders",
+    "Resources/README.md",
+    "Threat-Actors/README.md",
     "Allies/README.md",
     "History/README.md",
     "Presentation/README.md",
-    "Resources/README.md",
     "Sources/README.md",
     "Tactics/README.md",
     "Threat-Actors/Against-Iran/README.md",
-    "Threat-Actors/Pro-Iran/README.md",
-    "Threat-Actors/README.md"
+    "Threat-Actors/Pro-Iran/README.md"
   ]
 }
