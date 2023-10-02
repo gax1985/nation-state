@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2945e49ed7ef005",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ca92ad7b930e728",
+  "active": "b2945e49ed7ef005",
   "lastOpenFiles": [
     "History/Current Motivations.md",
     "History/Pre-Islamic Revolution.md",

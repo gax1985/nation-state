@@ -7,6 +7,12 @@ Research : The name change after the revolution  ( "Persia" to "Iran")
 
 Reasons for the revolution : Opression of the king's security apparatus, (hatred of the US and Israel as they both assisted in the creation of SAVAK "The security appartus for the Shah")
 
+
+## 1979 : Islamic Revolution
+
+
+
+
 ## Post-Islamic Revolution 
 
 The Iraq-Iran War (1980-1988) : Effects of the war on Iran's finances + Research the birth of Iran's cyber program and technological situation involving PCs at that time. 
@@ -22,6 +28,12 @@ Add a sentence about How warfare was fought before and after the cyber revolutio
 
 
 #### 1990s- Cover the birth of Iran's cyber security program. 
+
+
+
+The Iranian security forces begun honing their skills in offensive cyber attacks during the events of the Green Revolution in 2009, which necessitated extensive surveillance and to control the flow of information in Iran's cyberspace.   
+
+> Lewis, J. A. (n.d.). _Iran and Cyber Power_. CSIS. https://www.csis.org/analysis/iran-and-cyber-power
 
 
 
