@@ -24,9 +24,10 @@ Iran was competing with Russia in terms of exercising control of Syria. They are
 They have an international drug-smuggling, weapons smuggling and human trafficking ring. They control Southern Lebanon, and control a large portion of the Cannabis fields in Lebanon. They have expanded into Keptagon production in Syria (Keptagon is a cheap-to-manufacture stimulant, which is routinely smuggled into the Persian gulf countries. There have been notable seizures of massive quantities of this drug from Jordanian, Kuwait and Saudi Arabian borders). They participated in the Syrian Civil War, as well as the current hostilities with Israel.
 
 > [!todo] 
-> Examine their smuggling routes (as it provides funds for themselves. Look for evidence of them financing the Iranian regime, as they are its proxy)
-> Check for cyber operations from Hezbollah's side directly
-> Check the history of their involvement in the Syrian civil war.  
+> 1. Examine their smuggling routes (as it provides funds for themselves. Look for evidence of them financing the Iranian regime, as they are its proxy)
+> 2. Check for cyber operations from Hezbollah's side directly
+> 3. Check the history of their involvement in the Syrian civil war.  
+> 4. Check for evidence of the offensive Iranian cyber program aiding Hezbollah's operations.
 
 #### Iraq 
 

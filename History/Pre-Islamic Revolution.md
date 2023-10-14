@@ -8,7 +8,7 @@ Politically. Iran was the US' and Israel's best friend in the region; there was 
 Research : The name change after the revolution  ( "Persia" to "Iran")
 
 
-Reasons for the revolution : Opression of the king's security apparatus, (hatred of the US and Israel as they both assisted in the creation of SAVAK "The security appartus for the Shah")
+Reasons for the revolution : Oppression of the king's security apparatus, (hatred of the US and Israel as they both assisted in the creation of SAVAK "The security apparatus for the Shah")
 
 
 
@@ -40,6 +40,12 @@ The Iraq-Iran War (1980-1988) : Effects of the war on Iran's finances + Research
 Add a sentence about How warfare was fought before and after the cyber revolution (Iraq-Iran war fought with Soviet weaponry + artillary + tanks, Chemical Weapons etc...)
 
 
+> [!todo] 
+> Research the effect of the Iraq-Iran war on the prevalence of computing technology in Iran.
+> 
+
+
+
 1990 - Saddam enters Kuwait due to financial reasons 
 
 
@@ -63,11 +69,38 @@ The Iranian security forces begun honing their skills in offensive cyber attacks
 3. Early Feb. 2022 installed XRIG crypto mining software
 
 
+> [!tldr] 
+> 1. Research Phosphorous
+> 2. Research APT 32
+> 3. Research APT 42
+> 4. Research the "Early Feb. 2022 installed XRIG crypto mining software"
+
+
+> [!tip] 
+> This following website is invaluable source of information pertaining to the mentioned groups : 
+> 
+>https://attack.mitre.org/
+>
+>_Mitre ATT&CK®_. MITRE ATT&CK®. (n.d.). 
+ 
+
+
+
 #### Funding 
 
 1. They mine crypto, petroleum , natural gas 
+
+> [!todo] 
+> Research statistics pertaining to crypto mining in Iran. 
+> Research statistics pertaining to petroleum and natural gas production.
+ 
 
 
 
 ###### Drug Use in Iran : Women vs Men 
 ###### Social Realities of Women's lives in Iran vs Men : 
+
+> [!todo] 
+> 1. Research drug use statistics between men and women in Iran
+> 2. Research evidence of cyber surveillance pertaining to drug use
+

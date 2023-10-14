@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allies/README.md",
+                "file": "Sources/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "History/Pre-Islamic Revolution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c0e303105bbfc08d",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Sources/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Sources/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Sources/README.md"
               }
             }
           },
@@ -180,16 +180,21 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b2945e49ed7ef005",
+  "active": "5749f2db4eee3274",
   "lastOpenFiles": [
-    "Threat-Actors/README.md",
-    "Threat-Actors/Against-Iran/README.md",
-    "Tactics/README.md",
-    "Resources/README.md",
-    "History/Current Motivations.md",
+    "Sources/project_muse_795830.pdf",
     "Allies/README.md",
+    "Sources/Unconfirmed 12318.crdownload",
+    "Sources/Iran’s enemies in the Middle East are closing ranks _ Financial Times.pdf",
+    "Sources/Cyber3.1ENG_3-73-96.pdf",
+    "Threat-Actors/Pro-Iran/README.md",
     "History/Pre-Islamic Revolution.md",
+    "Resources/README.md",
+    "Threat-Actors/Against-Iran/README.md",
+    "History/Current Motivations.md",
     "README.md",
+    "Threat-Actors/README.md",
+    "Tactics/README.md",
     "Personal Folders/Mohammad",
     "Personal Folders/James",
     "Personal Folders/Paula",
@@ -198,7 +203,6 @@
     "Personal Folders",
     "History/README.md",
     "Presentation/README.md",
-    "Sources/README.md",
-    "Threat-Actors/Pro-Iran/README.md"
+    "Sources/README.md"
   ]
 }
