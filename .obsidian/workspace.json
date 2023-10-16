@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/README.md",
+                "file": "History/Pre-Islamic Revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/README.md",
+                "file": "History/Pre-Islamic Revolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/README.md"
+                "file": "History/Pre-Islamic Revolution.md"
               }
             }
           },
@@ -167,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,18 +182,19 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5749f2db4eee3274",
+  "active": "6ca92ad7b930e728",
   "lastOpenFiles": [
+    "Sources/README.md",
+    "History/Pre-Islamic Revolution.md",
+    "History/Current Motivations.md",
     "Sources/project_muse_795830.pdf",
     "Allies/README.md",
     "Sources/Unconfirmed 12318.crdownload",
     "Sources/Iran’s enemies in the Middle East are closing ranks _ Financial Times.pdf",
     "Sources/Cyber3.1ENG_3-73-96.pdf",
     "Threat-Actors/Pro-Iran/README.md",
-    "History/Pre-Islamic Revolution.md",
     "Resources/README.md",
     "Threat-Actors/Against-Iran/README.md",
-    "History/Current Motivations.md",
     "README.md",
     "Threat-Actors/README.md",
     "Tactics/README.md",
@@ -202,7 +205,6 @@
     "Personal Folders/Justina",
     "Personal Folders",
     "History/README.md",
-    "Presentation/README.md",
-    "Sources/README.md"
+    "Presentation/README.md"
   ]
 }

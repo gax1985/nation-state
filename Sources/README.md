@@ -15,9 +15,29 @@
 >   
 >		Guardian News and Media. (2023, October 13). _CIA admits 1953 Iranian coup it backed was undemocratic_. The Guardian. https://www.theguardian.com/us-news/2023/oct/13/cia-1953-iran-coup-undemocratic-argo 
 >
->
->
->2. Iran Hostage Crisis, and the Iranian Revolution of 1979
+>2. CIA admits role in 1953 Iranian coup
+>   
+>   
+>   [https://www.theguardian.com/world/2013/aug/19/cia-admits-role-1953-iranian-coup](https://www.theguardian.com/world/2013/aug/19/cia-admits-role-1953-iranian-coup)
+>   
+>   
+>		Guardian News and Media. (2013, August 19). _Cia admits role in 1953 Iranian coup_. The Guardian. https://www.theguardian.com/world/2013/aug/19/cia-admits-role-1953-iranian-coup   
+>		
+>		
+>3. Torture still scars Iranians 40 years after revolution
+>		
+>		
+>		
+>https://www.timesofisrael.com/torture-still-scars-iranians-40-years-after-revolution/	
+>	
+>	
+>		
+>		Gambrell, N. K. and J. (2019, February 6). _Torture still scars Iranians 40 years after revolution_. The Times of Israel. https://www.timesofisrael.com/torture-still-scars-iranians-40-years-after-revolution/
+>		
+>		
+>		
+>		
+>4. Iran Hostage Crisis, and the Iranian Revolution of 1979
 >   
 >   
 >   - https://www.washingtonpost.com/politics/2021/09/26/40-years-later-dwindling-band-iran-hostages-awaits-promised-payment/
@@ -32,7 +52,7 @@
 >     
 > 		  Parvaz, D. (2014, February 11). _Iran Revolution_. Features | Al Jazeera. https://www.aljazeera.com/features/2014/2/11/iran-1979-the-islamic-revolution-that-shook-the-world  
 > 
->3. History of Computing in Iran 
+>4. History of Computing in Iran 
 >
 >https://www.mdpi.com/2227-7080/10/4/94
 >
