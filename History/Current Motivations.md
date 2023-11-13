@@ -1,4 +1,4 @@
-
+  
 
 
 Human Rights and Hacktivists (Justina): 
@@ -16,9 +16,19 @@ Human Rights and Hacktivists (Justina):
 				Kurdish groups have been fighting for independence in areas where the Kurdish people in Iran are based. The groups waged an armed resistance against the regime.
 
 
+
+
+
+
+
+
 > [!todo] 
  It would help tremendously to check for the Iranian regime's surveillance efforts against the Kurdish population.
 >The protest movements prior to Mahsa Amini's death, and the Iranian regime's surveillance efforts to counter the protest movement.  Mahsa was Kurdish. Her unfortunate death is a double-blow, as she demonstrated the oppression of the Iranian regime against women and against the Kurdish community. 
+
+
+
+
 
 >	6. The Ahwaz Movement
 >						It involves a small Arab community in the city of Ahwaz. There has been a lot of discrimination involving the Arab community there.

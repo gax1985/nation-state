@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Pre-Islamic Revolution.md",
+                "file": "History/Kurdistan.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c0e303105bbfc08d",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Pre-Islamic Revolution.md",
+                "file": "History/Kurdistan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Pre-Islamic Revolution.md",
+                "file": "History/Kurdistan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Pre-Islamic Revolution.md"
+                "file": "History/Kurdistan.md"
               }
             }
           },
@@ -184,27 +183,28 @@
   },
   "active": "6ca92ad7b930e728",
   "lastOpenFiles": [
-    "Sources/README.md",
-    "History/Pre-Islamic Revolution.md",
     "History/Current Motivations.md",
+    "History/Kurdistan.md",
+    "Tactics/README.md",
+    "README.md",
+    "Threat-Actors/Pro-Iran/README.md",
+    "Threat-Actors/Against-Iran/README.md",
+    "Presentation/README.md",
+    "History/README.md",
+    "History/Pre-Islamic Revolution.md",
+    "Sources/README.md",
     "Sources/project_muse_795830.pdf",
     "Allies/README.md",
     "Sources/Unconfirmed 12318.crdownload",
     "Sources/Iran’s enemies in the Middle East are closing ranks _ Financial Times.pdf",
     "Sources/Cyber3.1ENG_3-73-96.pdf",
-    "Threat-Actors/Pro-Iran/README.md",
     "Resources/README.md",
-    "Threat-Actors/Against-Iran/README.md",
-    "README.md",
     "Threat-Actors/README.md",
-    "Tactics/README.md",
     "Personal Folders/Mohammad",
     "Personal Folders/James",
     "Personal Folders/Paula",
     "Personal Folders/Eliza",
     "Personal Folders/Justina",
-    "Personal Folders",
-    "History/README.md",
-    "Presentation/README.md"
+    "Personal Folders"
   ]
 }
