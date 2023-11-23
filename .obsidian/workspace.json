@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/README.md",
+                "file": "History/Hezbollah.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/README.md",
+                "file": "History/Hezbollah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/README.md",
+                "file": "History/Hezbollah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/README.md"
+                "file": "History/Hezbollah.md"
               }
             }
           },
@@ -182,10 +182,14 @@
   },
   "active": "5749f2db4eee3274",
   "lastOpenFiles": [
+    "History/Hamas.md",
+    "History/Hezbollah.md",
+    "History/Houthi Rebels.md",
+    "History/Syrian Civil War - Iran's Actions.md",
+    "History/README.md",
     "History/Kurdistan.md",
     "History/Current Motivations.md",
     "History/Pre-Islamic Revolution.md",
-    "History/README.md",
     "Threat-Actors/Against-Iran/README.md",
     "Sources/README.md",
     "Sources/project_muse_795830.pdf",
