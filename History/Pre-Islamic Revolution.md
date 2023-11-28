@@ -49,7 +49,7 @@ The type of government that was in place was a Dynastic Monarchy.
 
 Iran was extremely liberal before the revolution. Politically. Iran was the US' and Israel's best friend in the region; there was substantial collaboration : Creation of SAVAK.
 
-SAVAK was created in 1957, and the name refers to the Organization of Intelligence and Security of the Nation. The agency hunted for communists and leftists, as the Cold War was very much alive at that time. The CIA and the Israeli Mossad both were part of its existence in the fearsome fashion in Iranian minds, and the oppression meted by the Shah's SAVAK paved the way to the 1979 Islamic Revolution. 
+SAVAK was created in 1957, and the name refers to the Organization of Intelligence and Security of the Nation. The agency hunted for communists and leftists, as the Cold War was very much alive at that time. The CIA and the Israeli Mossad both were part of its existence in the fearsome fashion in Iranian minds, and the oppression meted by the Shah's SAVAK paved the way to the 1979 Islamic Revolution(Karimi & Gambrell, n.d.). 
 
 Gambrell, N. K. and J. (2019, February 6). _Torture still scars Iranians 40 years after revolution_. The Times of Israel. https://www.timesofisrael.com/torture-still-scars-iranians-40-years-after-revolution/
 
@@ -71,7 +71,7 @@ Reasons for the revolution : Oppression of the king's security apparatus, (hatre
 
 The 1979 Islamic-Revolution in Iran was a revolution that did not fit the western definition of what a Revolution is. Typically, revolutions that have happened in the past were by the underprivileged being united as a front against the privileged class, which often happens to be either affiliated with the state or considered to be a part of the state's apparatus.  This revolution united both rich and poor against the Shah's dynastic monarchy. 
 
-The spearhead of this revolution, Ayatollah Khomeini, was on the minds of many Iranians as an almost-divine figure, as the people who followed him considered his words as divine. The political scene in those times ranged across ideologies, but it was mostly Islamist-leaning, followed by Marxist-Leninist (Iranian Revolution of February 1979. Middle East Institute).
+The spearhead of this revolution, Ayatollah Khomeini, was on the minds of many Iranians as an almost-divine figure, as the people who followed him considered his words as divine. The political scene in those times ranged across ideologies, but it was mostly Islamist-leaning, followed by Marxist-Leninist ((The Iranian Revolution of February 1979, n.d.).
 
 [https://www.reuters.com/article/us-iran-revolution-anniversary-timeline-idUSKCN1Q017W]
 pr
