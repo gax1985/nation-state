@@ -14,13 +14,6 @@ Please provide me with a primer on Hezbollah and please include sources for your
 
 
 
-
-
-
-
-
-
-
 ## AI-Generated Primer (for guidance on a flow of information, and potential sources to utilize for this research ): 
 
 
